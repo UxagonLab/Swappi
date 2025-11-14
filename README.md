@@ -20,7 +20,7 @@ Swappi provides a peer-to-peer rental platform designed for students. Instead of
 - Rent the tools they need directly from other students at an affordable price.  
 - Lend out their unused tools and earn extra money instead of leaving them idle.
 
-- 
+ 
 **🔹How it works:**  
 
 1. A student lists an item they no longer use (calculator, lab coat, drawing tools, etc.).  
