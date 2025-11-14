@@ -81,6 +81,16 @@ ________________________________________
    - Internal review & refinements  
    - Export & presentation setup  
    - Documentation & portfolio upload  
-
 ________________________________________
-
+# 👨‍🏫 Instructor
+Eng. Glal Badr
+________________________________________
+# 🔗 Figma Link
+**https://www.figma.com/design/KGXPo9VR6qrSX9GxumAina/Swappi-App--Copy-?node-id=2001-29638&t=zqD6aOb4j1ihTONY-1**
+________________________________________
+# 📂 Project Files
+**Access all project files here:**
+**https://drive.google.com/drive/folders/12E8GqOumgJs6ucvzeSFun3CZdXRbaS9N?usp=drive_link**
+________________________________________
+# ⚖️ License
+All rights reserved © 2025 Uxagon
