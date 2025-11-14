@@ -1,5 +1,5 @@
 # 📊 Swappi
- 🔹 The Problem
+ **🔹 The Problem**
 University students are often required to buy expensive tools, equipment, and study materials for specific courses.  
 The issue is:  
 - These items are only used for one semester or even a few weeks.  
@@ -13,7 +13,7 @@ This leads to:
 
 
 
- 🔹 The Solution – Swappi
+ **🔹 The Solution – Swappi**
 Swappi provides a peer-to-peer rental platform designed for students. Instead of buying tools that they will only use for a short time, students can:  
 - Rent the tools they need directly from other students at an affordable price.  
 - Lend out their unused tools and earn extra money instead of leaving them idle.  
@@ -25,7 +25,7 @@ Swappi provides a peer-to-peer rental platform designed for students. Instead of
 
 
 
- 🔹 The Impact
+ **🔹 The Impact**
 Swappi creates value for all students involved:  
 - **Financial savings** → Renters pay much less than buying new tools.  
 - **Extra income** → Owners make money from items that would otherwise sit unused.  
@@ -34,7 +34,7 @@ Swappi creates value for all students involved:
 
 
 
- 🔹 Vision
+ **🔹 Vision**
 Swappi aims to become the go-to platform for students to access and share resources easily. By turning wasted tools into valuable assets, we help build a smarter, more affordable, and more sustainable student life.
 
 ________________________________________
