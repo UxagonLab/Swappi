@@ -29,11 +29,11 @@ ________________________________________
 Swappi aims to become the go-to platform for students to access and share resources easily. By turning wasted tools into valuable assets, we help build a smarter, more affordable, and more sustainable student life.
 ________________________________________
 # 👥 Team Members 
-Adham Ashraf Mohamed Zaghloul - Team Leader
-Ali Muhammed Abdelaziz Ghazy
-Merehan magdy mostafa elsheikh
-Mohamed yousef saad yousef
-Renad Alaa Rafat Elalosey
-Tasnim Ayman Ebrahim Sheta
+- Adham Ashraf Mohamed Zaghloul - Team Leader
+- Ali Muhammed Abdelaziz Ghazy
+- Merehan magdy mostafa elsheikh
+- Mohamed yousef saad yousef
+- Renad Alaa Rafat Elalosey
+- Tasnim Ayman Ebrahim Sheta
 
 
