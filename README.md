@@ -85,12 +85,12 @@ ________________________________________
 # 👨‍🏫 Instructor
 Eng. Glal Badr
 ________________________________________
-# 🔗 Figma Link
-**[Open Figma File](https://www.figma.com/design/KGXPo9VR6qrSX9GxumAina/Swappi-App--Copy-?node-id=2001-29638&t=zqD6aOb4j1ihTONY-1)**
+# 📂 Figma File
+**🔗 [Open Figma File](https://www.figma.com/design/KGXPo9VR6qrSX9GxumAina/Swappi-App--Copy-?node-id=2001-29638&t=zqD6aOb4j1ihTONY-1)**
 ________________________________________
 # 📂 Project Files
 **Access all project files here:**
-[Open Drive](https://drive.google.com/drive/folders/12E8GqOumgJs6ucvzeSFun3CZdXRbaS9N?usp=drive_link)
+**🔗 [Open Drive Folder](https://drive.google.com/drive/folders/12E8GqOumgJs6ucvzeSFun3CZdXRbaS9N?usp=drive_link)**
 ________________________________________
 # ⚖️ License
 **All rights reserved © 2025 Uxagon**
