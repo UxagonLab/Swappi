@@ -38,37 +38,37 @@ ________________________________________
 ________________________________________
 # 🗂️ Work Plan
 1. Research & Analysis
-  Objectives: Understand market, competitors, and user needs.
-   - Market & competitor research
-   - Target audience personas
-   - User interviews
+    Objectives: Understand market, competitors, and user needs.
+     - Market & competitor research
+     - Target audience personas
+     - User interviews
 2. Information Architecture & UX Strategy
-  Objectives: Structure content and plan user interactions.
-    - User journey & empathy map
-    - User flows
-    - Information architecture
+    Objectives: Structure content and plan user interactions.
+      - User journey & empathy map
+      - User flows
+      - Information architecture
 3. Branding & Visual Identity
-  Objectives: Create logo, colors, typography, and visual tone.
-    - Logo design & brand naming
-    - Color palette & typography
-    - Tone of voice & visual guidelines
-    - High-fidelity prototyping
-  - Sketching & UI design 
+    Objectives: Create logo, colors, typography, and visual tone.
+      - Logo design & brand naming
+      - Color palette & typography
+      - Tone of voice & visual guidelines
+      - High-fidelity prototyping
+      - Sketching & UI design 
 4. Wireframes & UI Design
-  Objectives: Build wireframes, prototype, and UI screens.
-    - Low-fidelity wireframes (selected features)
-    - Mid-fidelity wireframes
-    - Sketching & UI design
-    - Usability testing
+    Objectives: Build wireframes, prototype, and UI screens.
+      - Low-fidelity wireframes (selected features)
+      - Mid-fidelity wireframes
+      - Sketching & UI design
+      - Usability testing
 6. Community & Feedback
-  Objectives: Build engagement and collect insights.
-    - User survey & feedback collection
-    - Discussion topics & mentorship
-    - Real user insights & success stories
+    Objectives: Build engagement and collect insights.
+      - User survey & feedback collection
+      - Discussion topics & mentorship
+      - Real user insights & success stories
 7. Review & Finalization
-  Objectives: Ensure project quality and prepare deliverables.
-    - Internal review & refinements
-    - Export & presentation setup
-    - Documentation & portfolio upload
+    Objectives: Ensure project quality and prepare deliverables.
+      - Internal review & refinements
+      - Export & presentation setup
+      - Documentation & portfolio upload
 ________________________________________
 
