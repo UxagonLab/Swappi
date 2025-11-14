@@ -44,31 +44,31 @@ ________________________________________
    - User interviews
 2. Information Architecture & UX Strategy
   Objectives: Structure content and plan user interactions.
-  - User journey & empathy map
-  - User flows
-  - Information architecture
+    - User journey & empathy map
+    - User flows
+    - Information architecture
 3. Branding & Visual Identity
   Objectives: Create logo, colors, typography, and visual tone.
-  - Logo design & brand naming
-  - Color palette & typography
-  - Tone of voice & visual guidelines
-  - High-fidelity prototyping
+    - Logo design & brand naming
+    - Color palette & typography
+    - Tone of voice & visual guidelines
+    - High-fidelity prototyping
   - Sketching & UI design 
 4. Wireframes & UI Design
   Objectives: Build wireframes, prototype, and UI screens.
-  - Low-fidelity wireframes (selected features)
-  - Mid-fidelity wireframes
-  - Sketching & UI design
-  - Usability testing
+    - Low-fidelity wireframes (selected features)
+    - Mid-fidelity wireframes
+    - Sketching & UI design
+    - Usability testing
 6. Community & Feedback
   Objectives: Build engagement and collect insights.
-  - User survey & feedback collection
-  - Discussion topics & mentorship
-  - Real user insights & success stories
+    - User survey & feedback collection
+    - Discussion topics & mentorship
+    - Real user insights & success stories
 7. Review & Finalization
   Objectives: Ensure project quality and prepare deliverables.
-  - Internal review & refinements
-  - Export & presentation setup
-  - Documentation & portfolio upload
+    - Internal review & refinements
+    - Export & presentation setup
+    - Documentation & portfolio upload
 ________________________________________
 
