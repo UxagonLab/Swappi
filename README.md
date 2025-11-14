@@ -28,6 +28,7 @@ ________________________________________
 🔹 Vision
 Swappi aims to become the go-to platform for students to access and share resources easily. By turning wasted tools into valuable assets, we help build a smarter, more affordable, and more sustainable student life.
 ________________________________________
+
 # 👥 Team Members 
 - Adham Ashraf Mohamed Zaghloul - Team Leader
 - Ali Muhammed Abdelaziz Ghazy
@@ -36,6 +37,7 @@ ________________________________________
 - Renad Alaa Rafat Elalosey
 - Tasnim Ayman Ebrahim Sheta
 ________________________________________
+
 # 🗂️ Work Plan
 1. **Research & Analysis**  
    **Objectives:** Understand market, competitors, and user needs.  
@@ -80,16 +82,72 @@ ________________________________________
    **Objectives:** Ensure project quality and prepare deliverables.  
    - Internal review & refinements  
    - Export & presentation setup  
-   - Documentation & portfolio upload  
+   - Documentation & portfolio upload
 ________________________________________
+
+# 📋 Roles & Responsibilities
+### **Adham Ashraf Mohamed Zaghloul**
+- Persona / User Journey / Empathy Map (with Mohamed)  
+- Information Architecture  
+- User Interview (with Mohamed)  
+- Card Sorting (with Mohamed)  
+- Sketching & UI Design (shared)  
+
+### **Mohamed Yousef Saad Yousef**
+- Persona / User Journey / Empathy Map (with Adham)  
+- User Interview (with Adham)  
+- Task Flows  
+- Card Sorting (with Adham)  
+- Usability Testing  
+- Sketching & UI Design (shared)  
+
+### **Merehan Magdy Mostafa Elsheikh**
+- User Flow (with Ali)  
+- Competitive Analysis (with Renad & Tasnim)  
+- Mid-fidelity Wireframes  
+- UX Writing / Content Strategy  
+- Sketching & UI Design (shared)  
+
+### **Ali Muhammed Abdelaziz Ghazy**
+- User Flow (with Merehan)  
+- Branding (Logo & Visual Identity)  
+- High-fidelity UI Prototyping  
+- Market Research (lead, with Renad)  
+- Sketching & UI Design (shared)  
+
+### **Renad Alaa Rafat Elalosey**
+- Competitive Analysis (with Merehan & Tasnim)  
+- User Survey (with Tasnim)  
+- Affinity Mapping (with Tasnim)  
+- Market Research (with Ali)  
+- Low-fidelity Wireframes (selected features)  
+- Sketching & UI Design (shared)  
+
+### **Tasnim Ayman Ebrahim Sheta**
+- Competitive Analysis (with Merehan & Renad)  
+- User Survey (with Renad)  
+- Affinity Mapping (with Renad)  
+- Low-fidelity Wireframes (selected features)  
+- Sketching & UI Design (shared)  
+
+### **🔄 Shared Work Across the Whole Team**
+All members collaborate on the design process:  
+**Sketching → Wireframes → UI Design → Prototype → Usability Testing**  
+Each member leads certain features or screens while contributing to shared tasks, ensuring balanced teamwork.
+
+________________________________________
+
 # 👨‍🏫 Instructor
 Eng. Glal Badr
 ________________________________________
+
 # 📂 Figma File
 **🔗 [Open Figma File](https://www.figma.com/design/KGXPo9VR6qrSX9GxumAina/Swappi-App--Copy-?node-id=2001-29638&t=zqD6aOb4j1ihTONY-1)**
 ________________________________________
+
 # 📂 Project Files
 **🔗 [Open Drive Folder](https://drive.google.com/drive/folders/12E8GqOumgJs6ucvzeSFun3CZdXRbaS9N?usp=drive_link)**
 ________________________________________
+
 # ⚖️ License
 **All rights reserved © 2025 Uxagon**
