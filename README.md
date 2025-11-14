@@ -138,7 +138,7 @@ Each member leads certain features or screens while contributing to shared tasks
 ________________________________________
 
 # 👨‍🏫 Instructor
-Eng. Glal Badr
+Eng. Galal Badr
 ________________________________________
 
 # 📂 Figma File
